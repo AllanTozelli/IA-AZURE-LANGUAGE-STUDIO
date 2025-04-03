@@ -6,7 +6,7 @@ https://language.cognitive.azure.com/
 
 
 
-📌 #IA AZURE SEARCH
+# 📌 IA AZURE SEARCH
 
 📝 Descrição
 
@@ -21,7 +21,7 @@ O curso mostra como verificar as informações de documentos através do IA AZUR
 ➡️ Utilizar na pesquisa "search=SENTIMENT;Negative" /"search=locations;Brazil" 
 
 
-📌 #IA GENERATIVA
+# 📌 #IA GENERATIVA
 
 📝 Descrição
 
