@@ -20,3 +20,14 @@ O curso mostra como verificar as informações de documentos através do IA AZUR
 ➡️ Realizar o "Import Data" do nosso armazenamento com os arquivos
 ➡️ Utilizar na pesquisa "search=SENTIMENT;Negative" /"search=locations;Brazil" 
 
+
+📌 #IA GENERATIVA
+
+📝 Descrição
+
+Planejar uma solução responsavel, para isso é nessesário criar um plano para *Identificar, medir, mitigar e operar*, a solução, futuros problemas.
+
+A IA GERENATIVA, pode ser usada para criação e imagens, pequisa de informações, ajuda para resolver um problema (Dev ou suporte) ao usuário
+
+
+
