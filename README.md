@@ -1,4 +1,4 @@
-#📌 IA-AZURE-LANGUAGE-STUDIO
+# 📌 IA-AZURE-LANGUAGE-STUDIO
 
 Realizada a consulta de 3 tipos de frases para verificar se era positiva ou negativa, atraves do site do language cognitives
 
